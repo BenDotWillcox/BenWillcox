@@ -21,7 +21,7 @@ repository: "BenDotWillcox/BenWillcox"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile2.png"
+  avatar: "profile3.png"
   name: "Ben Willcox"
   pronouns: # example: "she/her"
   bio: "Data Science/Machine Learning"

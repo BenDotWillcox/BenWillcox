@@ -5,7 +5,7 @@ I developed a custom Elo rating system for the professional Valorant league VCT,
 collection: portfolio
 ---
 
-![valorant_app](valorant_app.PNG)
+![valorant_app](/images/valorant_app.PNG)
 {: .align-center width="600px"}
 
 [Check the live dashboard out here](https://valorant-map-dashboard-489cd7b1350b.herokuapp.com/)

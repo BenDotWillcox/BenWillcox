@@ -1,7 +1,7 @@
 ---
 title: "Valorant Map Elo Dashboard"
 excerpt: "
-I developed a custom Elo rating system for the professional Valorant league VCT, adapting the traditional chess Elo system to account for Valorant's unique aspects, such as different maps and no possibility of draws. This system separates each team's Elo rating by map and incorporates factors like win margins and skill variance. Through A/B testing, I refined the model for accurate match predictions. The result is a dynamic Streamlit dashboard showcasing live leaderboards, Elo changes, and an interactive match prediction tool.<br/>"
+I developed a custom Elo rating system for the professional Valorant league VCT, adapting the traditional chess Elo system to account for Valorant's unique aspects, such as different maps, available margin of victory information, and no possibility of draws. This system separates each team's Elo rating by map and incorporates factors like win margins and skill variance. Through A/B testing, I refined the model for accurate match predictions. The result is a dynamic Streamlit dashboard showcasing live leaderboards, Elo changes, and an interactive match prediction tool.<br/>"
 collection: portfolio
 ---
 

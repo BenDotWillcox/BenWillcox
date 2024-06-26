@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 <div style="text-align: center;">
-  <img src="https://bendotwillcox.github.io/BenWillcox//images/valorant_app.PNG" alt="valorant_app" style="width: 600px;">
+  <img src="https://bendotwillcox.github.io/BenWillcox//images/valorant_app.PNG" alt="valorant_app" style="width: 800px;"><br>
 </div>
 
 [Check the live dashboard out here](https://valorant-map-dashboard-489cd7b1350b.herokuapp.com/)

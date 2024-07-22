@@ -9,7 +9,7 @@ redirect_from:
 
 I am a data scientist with a profound interest in machine learning. My passion for uncovering underlying trends in data dates back to middle school when I created metrics from aggregating counting stats in the major four sports to determine the player I believed should win MVP in each league. Today, I channel this enthusiasm into projects that involve building dashboards, applications, predictive models, and computer vision models.
 
-Some of my recent projects include:
+Some of my current/recent projects include:
 
 - A dashboard visualizing an ELO rating calculation I developed to approximate professional Valorant teams' skill levels on specific maps.
 

@@ -25,6 +25,8 @@ This led me on a deep dive into state-of-the-art machine learning approaches ove
 
 Currently, I am employed at STARS Advanced Radiology Services, where I specialize in delivering business and clinical productivity insights through dashboards, reports, and predictive modeling.
 
+I am planning on writing "blogs" as an effort to think through my own understanding of topics that I am reading about or have recently applied. These will likely be glorified notetaking however as I improve I hope to reach a point where they may be useful to someone looking for some interesting thoughts on a subject of interest.
+
 Outside of my professional pursuits in machine learning, I enjoy basketball, chess, video games, and hiking. My profile picture, taken at the Grand Canyon, captures one of my many adventures.
 
 If you’ve made it this far and would like to connect, feel free to message me on X/Twitter or LinkedIn.

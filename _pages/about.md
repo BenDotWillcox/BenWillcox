@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist with a profound interest in machine learning. My passion for uncovering underlying trends in data dates back to middle school when I created metrics from aggregating counting stats in the major four sports to determine the player I believed should win MVP in each league. Today, I channel this enthusiasm into projects that involve building dashboards, applications, predictive models, and computer vision models.
+I am a data scientist with a profound interest in machine learning. I love uncovering the mysteries that hide with in data and I am especially excited about the amazing things we can uncover with the combination of ever increasing amounts of data and the advancements of algorithms and techniques that happen seemingly everyday. I enjoy researching and trying out the latest state of the art methods. I typically do so on my own personal projects which are typically set in a domain that I am well versed in. Some of these domains include Basketball, Golf, ESports, Supply Chain, Manufacturing machinery, Healthcare/bioinformatics, or whatever else peaks my interest for long enough for me to do some research on.
 
 Some of my current/recent projects include:
 
@@ -19,7 +19,7 @@ Some of my current/recent projects include:
 
 You can check out my completed projects (or at least those with interesting versions) in greater detail on the portfolio tab of this website.
 
-After graduating from Michigan State University in 2021 with a degree in Economics, I stumbled upon a YouTube documentary about AlphaGo, the AI developed by DeepMind to play Go. This documentary inspired me, not only because of the AI's capabilities but also due to the remarkable team behind its creation.
+After graduating from Michigan State University in 2021 with a degree in Economics, I stumbled upon a YouTube documentary about AlphaGo, the AI developed by DeepMind to play Go. This documentary inspired me, not only because of the AI's capabilities but also the remarkable team behind its creation.
 
 This led me on a deep dive into state-of-the-art machine learning approaches over the past two and a half years. I have developed a practical focus on computer vision applications and supply chain/manufacturing optimization techniques. Additionally, I am academically fascinated by the architecture of intelligent machines, particularly the concepts of Active Inference and Karl Friston's Free Energy Principle.
 

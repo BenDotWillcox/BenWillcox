@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist with a deep interest in machine learning. I'm excited about what we can uncover with ever increasing amounts of data and the advancements of algorithms and techniques that happen everyday. I enjoy researching and trying out the latest state-of-the-art methods. I typically do so on my own personal projects which are in a domain I am well versed in. This could include supply chain, manufacturing, healthcare/bioinformatics, basketball, golf, eSports, or whatever piques my interest.
+I am a data scientist with an interest in machine learning and a passion for uncovering hidden patterns within data. The continuous growth of data and rapid advancements in algorithms and techniques fascinate me, and I am excited about the potential discoveries they enable.
+
+I enjoy researching and experimenting with state-of-the-art methods, often applying them to my own projects. These projects span various domains I am well-versed in, including supply chain, manufacturing machinery, healthcare/bioinformatics, basketball, golf, eSports, and other areas that capture my curiosity.
 
 Some of my current/recent projects include:
 

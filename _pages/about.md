@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist with a profound interest in machine learning. I love uncovering the mysteries that hide within data and I am especially excited about the amazing things we can uncover with the combination of ever increasing amounts of data and the advancements of algorithms and techniques that happen seemingly everyday. I enjoy researching and trying out the latest state-of-the-art methods. I typically do so on my own personal projects which are typically set in a domain I am well versed in. Some of these domains include Basketball, Golf, ESports, Supply Chain, Manufacturing Machinery, Healthcare/Bioinformatics, or whatever else piques my interest for long enough for me to do some research on.
+I'm a data scientist with a deep interest in machine learning. I'm excited about what we can uncover with ever increasing amounts of data and the advancements of algorithms and techniques that happen everyday. I enjoy researching and trying out the latest state-of-the-art methods. I typically do so on my own personal projects which are in a domain I am well versed in. This could include supply chain, manufacturing, healthcare/bioinformatics, basketball, golf, eSports, or whatever piques my interest.
 
 Some of my current/recent projects include:
 

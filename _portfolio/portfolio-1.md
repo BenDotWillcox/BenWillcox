@@ -9,6 +9,33 @@ collection: portfolio
   <img src="https://bendotwillcox.github.io/BenWillcox//images/valorant_app.PNG" alt="valorant_app" style="width: 800px;"><br>
 </div>
 
-[Check the live dashboard out here](https://valorant-map-dashboard-489cd7b1350b.herokuapp.com/)
+[Check the live dashboard out here](https://www.valomapped.com/)
 
-I created a custom Elo rating metric for the professional Valorant league VCT. Inspired by the chess Elo system I wanI created a custom Elo rating metric for the professional Valorant league VCT. Inspired by the chess Elo system I wanted to capture team strength using a similar method but with the specific considerations for the nature of a valorant match. The first interesting deviation from chess is that Valorant is played on a number of different maps (7 rotating maps selected from a pool of 9 total maps). Each team plays very uniquely on each map causing teams to be strong on a given map while weak on another. This inspired me to separate each team's Elo rating by the map that they are playing. That way we can make interesting observations about the likelihood of team X beating team Y depending on the maps to be played in their match. The second interesting difference is inside the Elo calculation itself. There are key differences that force us to alter the generic chess Elo formula. These include the availability of a win margin which gives us extra information to infer a teams skill level, higher degree of variance in skill level for a team in any given match, and the fact that you can not draw in a professional valorant match. All of these differences impacted the variables that make up the final elo calculation. With these considerations in mind I picked initial variables I thought were relevant and A/B tested various tweaks to these variables until they accurately predicted match outcomes. The culmination of developing a proper elo rating metric was devising a dynamic Streamlit dashboard to display a variety of visualizations of these ratings including live leaderboards, elo changes over time, and an interactive match prediction tool.
+Valorant ELO Dashboard
+A comprehensive analytics platform for competitive Valorant esports data
+Built a full-stack web application that tracks and analyzes professional Valorant tournament data, featuring sophisticated ELO rating calculations, team performance metrics, and predictive match simulations. The platform processes data from 30+ major tournaments including VCT Champions, Masters, and regional competitions.
+Key Features:
+Advanced ELO Algorithm: Custom mathematical model that calculates team ratings using:
+Logarithmic margin-of-victory scaling: marginFactor = scale × ln(5.95 × √(scoreDiff + 1))
+Expected probability calculation: P = 1 / (1 + 10^((loserRating - winnerRating) / 1000))
+Dynamic K-factor adjustments based on team form and class
+Map-specific ELO tracking for nuanced performance analysis
+Interactive Analytics: Live charts showing team performance trends, map statistics, and player ratings over time
+Match Predictions: AI-powered simulations for upcoming matches using historical data and ELO ratings
+Tournament Bracket Visualization: Dynamic bracket displays with real-time updates and probability calculations
+Comprehensive Data Pipeline: Automated web scraping from VLR.gg, data processing, and database management
+Technical Stack:
+Frontend: Next.js 14, TypeScript, Tailwind CSS, Recharts
+Backend: Node.js, Drizzle ORM, PostgreSQL
+Data Processing: Custom ELO calculator, web scraping with Puppeteer
+Deployment: Vercel with automated CI/CD
+Mathematical Highlights:
+30+ tournaments tracked across 3+ years of competitive play
+Map-specific ELO calculations with configurable parameters
+Margin-of-victory scaling using logarithmic functions
+Real-time rating updates with sophisticated probability modeling
+This project demonstrates expertise in full-stack development, mathematical modeling, and creating user-friendly interfaces for complex statistical analysis.
+Shorter version:
+Valorant ELO Dashboard
+A full-stack analytics platform featuring advanced ELO calculations with logarithmic margin-of-victory scaling and map-specific rating systems. Built with Next.js, TypeScript, and PostgreSQL, processing 30+ tournaments to provide insights for esports analysts and fans.
+Mathematical highlights: Custom ELO algorithm with P = 1/(1 + 10^((R₂-R₁)/1000)) probability calculations and marginFactor = scale × ln(5.95 × √(scoreDiff + 1)) victory margin scaling.

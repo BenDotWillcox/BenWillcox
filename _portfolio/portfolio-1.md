@@ -11,7 +11,9 @@ collection: portfolio
   <img src="https://bendotwillcox.github.io/BenWillcox//images/valorant_app.PNG" alt="valorant_app" style="width: 800px;"><br>
 </div>
 
-[Check the live dashboard out here](https://www.valomapped.com/)
+[Check the live dashboard out here](https://www.valomapped.com)
+
+[Read the Math behind the project](https://www.valomapped.com/math-blog)
 
 # Valorant ELO Dashboard
 

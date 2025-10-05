@@ -13,11 +13,22 @@ I enjoy researching and experimenting with state-of-the-art methods, often apply
 
 Some of my current/recent projects include:
 
-- A dashboard visualizing an ELO rating calculation I developed to approximate professional Valorant teams' skill levels on specific maps.
+- A full-stack analytics platform for tracking the professional Valorant Esports league (VCT).
 
-- A warehouse inventory application that handles order entry, product delivery, and sales. The application includes a sales forecasting model that creates optimal product purchases and store deliveries based on the model’s recommended warehouse and store inventory levels.
+- Custom designed Elo ratings
+- Statsically derived match predictions
+- Advanced data visualizations of team and player perfromance
+- Monte Carlo simulations of upcoming tournaments
+- Modern ML techiniques to predict future player performance
 
-- A computer vision model for player tracking in professional basketball. This model tracks metrics such as player speed, total distance traveled, and time of possession while also visualizing the player's name and number with the ball.
+All done with a fully automated ETL process and hosted live via Vercel.
+
+- A computer vision model for player tracking in professional basketball. This model tracks metrics such as player speed, total distance traveled, and time of possession while also visualizing the player's name and number with the ball. Includes an application to record box score stats solely using computer vision.
+
+- A voting application to model users political preferences via natural language conversation with fine-tuned LLM's and Reinforcemnt Learning methods on prefered voting behavior.
+
+  An application showcasing the thought experiment of if Democracy via indiviudal  
+  algorithms rather than elected representatives could be viable.
 
 You can check out my completed projects (or at least those with interesting versions) in greater detail on the portfolio tab of this website.
 
@@ -26,5 +37,3 @@ After graduating from Michigan State University in 2021 with a degree in Economi
 This led me on a deep dive into state-of-the-art machine learning approaches over the past two and a half years. I have developed a practical focus on computer vision applications and supply chain/manufacturing optimization techniques. Additionally, I am academically fascinated by the architecture of intelligent machines, particularly the concepts of Active Inference and Karl Friston's Free Energy Principle.
 
 Currently, I am employed at STARS Advanced Radiology Services, where I specialize in delivering business and clinical productivity insights through dashboards, reports, and predictive modeling.
-
-I am planning on writing "blogs'' as an effort to think through my own understanding of topics that I am reading about or have recently applied. These will likely be glorified note taking however as I improve I hope to reach a point where they may be useful to someone looking for some interesting thoughts on a subject of interest.
